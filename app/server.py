@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1IGzNTE-b1oAOyh1lTX8pDd_S_rWXLv6Q'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1DjFVNYhbHKxdpU0HH_qFDIjxVJKafQf-'
 export_file_name = 'export.pkl'
 
 classes = ['ShilpaShetty','AmitabhBachchan','RishiKapoor','RajeshKhanna','AkshayKumar','Ranimukherji','KareenaKapoor','HrithikRoshan','SharukhKhan','AmrishPuri','KajalAgarwal','SalmanKhan','AamirKhan','BomanIrani','PrakashRaj','FaridaJalal','Kajol','KatrinaKaif','AnilKapoor','MadhuriDixit','Madhavan','Rimisen','AnupamKher','PareshRaval','VinodKhanna']
